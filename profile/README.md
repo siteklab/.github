@@ -5,7 +5,7 @@ Our methods include functional MRI, diffusion MRI tractography, ultra-high field
 We use them to study subcortical auditory structures that standard human neuroimaging struggles to reach, connecting
 findings across animal models and human communication disorders.
 
-The lab is led by [Kevin R. Sitek, PhD,](https://sitek.github.io) in the Department of Speech, Language, and Hearing at [([UT Dallas](https://profiles.utdallas.edu/kevin.sitek))]. It opens in
+The lab is led by [Kevin R. Sitek, PhD,](https://sitek.github.io) in the Department of Speech, Language, and Hearing at [[UT Dallas](https://profiles.utdallas.edu/kevin.sitek)]. It opens in
 **January 2027** at the [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu) in Dallas.
 
 - 🌐 **Website:** [siteklab.github.io](https://siteklab.github.io)
